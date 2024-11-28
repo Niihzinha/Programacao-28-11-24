@@ -1,0 +1,21 @@
+Corolla Sedan,115000,2020,novo
+Civic Sport,120000,2021,seminovo
+Ford Ka,45000,2018,conservado
+Onix,70000,2022,novo
+Fiat Uno,30000,2015,mal estado
+Gol,55000,2019,seminovo
+Hyundai HB20,85000,2022,novo
+Sandero Stepway,60000,2021,conservado
+Jeep Renegade,135000,2023,novo
+Nissan Kicks,110000,2022,seminovo
+Chevrolet Prisma,65000,2020,conservado
+Ford EcoSport,85000,2021,seminovo
+Hyundai Creta,150000,2023,novo
+Fiat Argo,75000,2022,novo
+T-Cross,155000,2023,novo
+Peugeot 208 Allure,90000,2022,novo
+Chevrolet Tracker,145000,2023,novo
+Honda Fit EXL,80000,2020,conservado
+Ford Ranger,230000,2023,novo
+Mitsubishi Outlander AWD,190000,2023,novo
+Palio,19000,2015,conservado
